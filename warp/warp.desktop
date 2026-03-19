@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Warp
+Comment=Become a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
+Exec=env WINIT_X11_SCALE_FACTOR=2 /opt/AppImages/warp/Warp-x86_64.AppImage
+Icon=~/.local/share/icons/warp.png
+Terminal=false
+Categories=Utility;Development;
+Keywords=cli;warp;console;terminal;
+MimeType=x-scheme-handler/warp;

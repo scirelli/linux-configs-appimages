@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Slippi.gg
+Comment=The goal of Slippi is to bring Super Smash Bros Melee into the future and invigorate the sport surrounding the game.
+Exec=/opt/AppImages/slippi/Slippi-Launcher-2.11.6-x86_64.AppImage
+Icon=/opt/AppImages/slippi/slippi.gg.png
+Terminal=false
+Categories=games;emulator;
+Keywords=emulator;dolphin;nintendo;game cube;super; smash; melee;

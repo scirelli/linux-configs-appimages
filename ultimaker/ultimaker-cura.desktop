@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=UltiMaker Cura
+Comment=3D Printer
+Exec=/opt/AppImages/ultimaker/UltiMaker-Cura.AppImage
+Icon=png-transparent-ultimaker-cura-macos-bigsur-icon.png
+Terminal=false
+Categories=Graphics;3DGraphics;
+Keywords=3d;printer;slicer;

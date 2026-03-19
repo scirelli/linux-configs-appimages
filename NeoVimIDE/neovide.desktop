@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Neovide
+Comment=Neovide (NeoVim IDE) This is a simple, no-nonsense, cross-platform graphical user interface for Neovim (an aggressively refactored and updated Vim editor). Where possible there are some graphical improvements, but functionally it should act like the terminal UI.
+Exec=/opt/AppImages/NeoVimIDE/neovide.AppImage
+Icon=/opt/AppImages/NeoVimIDE/nvim-icon.png
+Terminal=false
+Categories=developer;programming;editor;text
+Keywords=vi;vim;nvim;editor;text;ide

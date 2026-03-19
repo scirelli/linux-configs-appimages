@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=PulseView
+Comment=PulseView (sometimes abbreviated as "PV") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok.
+Exec=/opt/AppImages/pulseview/pulseview
+Icon=/opt/AppImages/pulseview/pulseview.png
+Terminal=false
+Categories=developer;analyzer;hardware
+Keywords=hardware;logic analyzer;analyzer;oscilloscope

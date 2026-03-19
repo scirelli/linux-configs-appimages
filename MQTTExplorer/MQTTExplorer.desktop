@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=MQTT Explorer
+Comment=MQTT Explorer is a comprehensive MQTT client that provides a structured overview of your MQTT topics and makes working with devices/services on your broker dead-simple.
+Exec=/opt/AppImages/MQTTExplorer/MQTT-Explorer.AppImage
+Icon=/opt/AppImages/MQTTExplorer/mqtt-explorer.png
+Terminal=false
+Categories=Utility;Development;
+Keywords=mqtt;
