@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=TMOG
+Comment=One glance at TMOG shows which process and which subsystem are responsible—right now. One measuring core. Three native applications. No browser shell.
+Exec=/opt/AppImages/tmog/tmog
+Icon=/opt/AppImages/tmog/tmog-icon.png
+Terminal=false
+Categories=Development;
+Keywords=tmog;process;monitor;

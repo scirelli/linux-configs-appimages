@@ -5,5 +5,5 @@ Comment=Neovim is a refactor, and sometimes redactor, in the tradition of Vim (w
 Exec=/opt/AppImages/nvim/nvim
 Icon=/opt/AppImages/nvim/nvim-icon.png
 Terminal=true
-Categories=developer;programming;editor;text
+Categories=Development;IDE;Debugger;TextTools
 Keywords=vi;vim;nvim;editor;text;

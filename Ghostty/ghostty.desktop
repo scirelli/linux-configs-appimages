@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Ghostty
+Comment=Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+Exec=/opt/AppImages/Ghostty/Ghostty
+Icon=/opt/AppImages/Ghostty/ghostty.png
+Terminal=false
+Categories=Utility;Development
+Keywords=tty;terminal;ghostty
